@@ -1,0 +1,76 @@
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\wsSysMobileREST.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\wsSysMobileREST.pdb
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\EntityFramework.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Helpers.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Mvc.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Providers.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Razor.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Razor.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\EntityFramework.xml
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Helpers.xml
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Mvc.xml
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Razor.xml
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.xml
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Razor.xml
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\es\EntityFramework.resources.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\bin\es\System.Web.Providers.resources.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\obj\Debug\wsSysMobileREST.csprojResolveAssemblyReference.cache
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\obj\Debug\wsSysMobileREST.dll
+C:\Users\Diego Martinez\Documents\Visual Studio 2012\Projects\wsSysMobileREST\wsSysMobileREST\obj\Debug\wsSysMobileREST.pdb
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\wsSysMobileREST.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\wsSysMobileREST.pdb
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\EntityFramework.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\Microsoft.Web.Infrastructure.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\Newtonsoft.Json.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Helpers.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Mvc.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Providers.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Razor.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Deployment.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Razor.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\Newtonsoft.Json.pdb
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\Newtonsoft.Json.xml
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\EntityFramework.xml
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Helpers.xml
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Mvc.xml
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Razor.xml
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.xml
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Deployment.xml
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Razor.xml
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\es\EntityFramework.resources.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\bin\es\System.Web.Providers.resources.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\obj\Debug\wsSysMobileREST.csprojResolveAssemblyReference.cache
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\obj\Debug\wsSysMobileREST.dll
+C:\SWSISTEMAS\wsSysMobileREST\wsSysMobileREST\obj\Debug\wsSysMobileREST.pdb
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\wsSysMobileREST.dll.config
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\wsSysMobileREST.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\wsSysMobileREST.pdb
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\EntityFramework.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\Microsoft.Web.Infrastructure.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\Newtonsoft.Json.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Helpers.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Mvc.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Providers.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Razor.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Deployment.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Razor.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\Newtonsoft.Json.pdb
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\Newtonsoft.Json.xml
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\EntityFramework.xml
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Helpers.xml
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Mvc.xml
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.Razor.xml
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.xml
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Deployment.xml
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\System.Web.WebPages.Razor.xml
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\es\EntityFramework.resources.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\bin\es\System.Web.Providers.resources.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\obj\Debug\wsSysMobileREST.csprojResolveAssemblyReference.cache
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\obj\Debug\wsSysMobileREST.dll
+Z:\NETSISTEMAS\SISTEMAS\NwSistemas\Android\WebService\wsSysMobileREST\wsSysMobileREST\wsSysMobileREST\obj\Debug\wsSysMobileREST.pdb
